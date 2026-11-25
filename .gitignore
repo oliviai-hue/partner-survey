@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+*.csv
+*.xlsx
+*.tsv
+*.json
+*참여계정*
+*전용링크*
+*개인링크*
